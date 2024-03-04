@@ -1,0 +1,32 @@
+{
+	"storyName": "deep sleep",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "catnap",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"sleep time",
+			"catnap",
+			[
+				155,
+				20,
+				55
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "catnap-week"
+}

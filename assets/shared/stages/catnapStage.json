@@ -1,0 +1,15 @@
+{
+	"directory": "week_catnap",
+	"defaultZoom": 1.2,
+	"stageUI": "",
+
+	"boyfriend": [1020, 490],
+	"girlfriend": [400, 130],
+	"opponent": [200, 250],
+	"hide_girlfriend": true,
+
+	"camera_boyfriend": [0, 0],
+	"camera_opponent": [0, 0],
+	"camera_girlfriend": [0, 0],
+	"camera_speed": 1
+}

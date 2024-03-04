@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-16"?>
+<TextureAtlas imagePath="menu_options.png">
+	<!-- Created with Adobe Flash CS6 version 12.0.0.481 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="options hover0000" x="0" y="0" width="376" height="134"/>
+	<SubTexture name="options normal0000" x="0" y="134" width="376" height="134"/>
+</TextureAtlas>

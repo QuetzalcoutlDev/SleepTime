@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="UTF-16"?>
+<TextureAtlas imagePath="catnap.png">
+	<!-- Created with Adobe Flash CS6 version 12.0.0.481 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="CatnapDown0000" x="0" y="0" width="714" height="570" frameX="0" frameY="-28" frameWidth="714" frameHeight="598"/>
+	<SubTexture name="CatnapDown0001" x="0" y="0" width="714" height="570" frameX="0" frameY="-28" frameWidth="714" frameHeight="598"/>
+	<SubTexture name="CatnapDown0002" x="714" y="0" width="703" height="593" frameX="-11" frameY="-5" frameWidth="714" frameHeight="598"/>
+	<SubTexture name="CatnapDown0003" x="714" y="0" width="703" height="593" frameX="-11" frameY="-5" frameWidth="714" frameHeight="598"/>
+	<SubTexture name="CatnapDown0004" x="1417" y="0" width="697" height="598" frameX="-17" frameY="0" frameWidth="714" frameHeight="598"/>
+	<SubTexture name="CatnapDown0005" x="1417" y="0" width="697" height="598" frameX="-17" frameY="0" frameWidth="714" frameHeight="598"/>
+	<SubTexture name="CatnapDown0006" x="1417" y="0" width="697" height="598" frameX="-17" frameY="0" frameWidth="714" frameHeight="598"/>
+	<SubTexture name="CatnapDown0007" x="1417" y="0" width="697" height="598" frameX="-17" frameY="0" frameWidth="714" frameHeight="598"/>
+	<SubTexture name="CatnapDown0008" x="1417" y="0" width="697" height="598" frameX="-17" frameY="0" frameWidth="714" frameHeight="598"/>
+	<SubTexture name="CatnapDown0009" x="1417" y="0" width="697" height="598" frameX="-17" frameY="0" frameWidth="714" frameHeight="598"/>
+	<SubTexture name="CatnapDown0010" x="1417" y="0" width="697" height="598" frameX="-17" frameY="0" frameWidth="714" frameHeight="598"/>
+	<SubTexture name="CatnapDown0011" x="1417" y="0" width="697" height="598" frameX="-17" frameY="0" frameWidth="714" frameHeight="598"/>
+	<SubTexture name="CatnapDown0012" x="1417" y="0" width="697" height="598" frameX="-17" frameY="0" frameWidth="714" frameHeight="598"/>
+	<SubTexture name="CatnapDown0013" x="1417" y="0" width="697" height="598" frameX="-17" frameY="0" frameWidth="714" frameHeight="598"/>
+	<SubTexture name="CatnapDown0014" x="1417" y="0" width="697" height="598" frameX="-17" frameY="0" frameWidth="714" frameHeight="598"/>
+	<SubTexture name="CatnapDown0015" x="1417" y="0" width="697" height="598" frameX="-17" frameY="0" frameWidth="714" frameHeight="598"/>
+	<SubTexture name="CatnapDown0016" x="1417" y="0" width="697" height="598" frameX="-17" frameY="0" frameWidth="714" frameHeight="598"/>
+	<SubTexture name="CatnapDown0017" x="1417" y="0" width="697" height="598" frameX="-17" frameY="0" frameWidth="714" frameHeight="598"/>
+	<SubTexture name="CatnapDown0018" x="1417" y="0" width="697" height="598" frameX="-17" frameY="0" frameWidth="714" frameHeight="598"/>
+	<SubTexture name="CatnapDown0019" x="1417" y="0" width="697" height="598" frameX="-17" frameY="0" frameWidth="714" frameHeight="598"/>
+	<SubTexture name="CatnapIdle0000" x="2114" y="0" width="642" height="667"/>
+	<SubTexture name="CatnapIdle0001" x="2114" y="0" width="642" height="667"/>
+	<SubTexture name="CatnapIdle0002" x="2756" y="0" width="642" height="665" frameX="0" frameY="-2" frameWidth="642" frameHeight="667"/>
+	<SubTexture name="CatnapIdle0003" x="2756" y="0" width="642" height="665" frameX="0" frameY="-2" frameWidth="642" frameHeight="667"/>
+	<SubTexture name="CatnapIdle0004" x="3398" y="0" width="642" height="656" frameX="0" frameY="-11" frameWidth="642" frameHeight="667"/>
+	<SubTexture name="CatnapIdle0005" x="3398" y="0" width="642" height="656" frameX="0" frameY="-11" frameWidth="642" frameHeight="667"/>
+	<SubTexture name="CatnapIdle0006" x="0" y="667" width="642" height="648" frameX="0" frameY="-19" frameWidth="642" frameHeight="667"/>
+	<SubTexture name="CatnapIdle0007" x="0" y="667" width="642" height="648" frameX="0" frameY="-19" frameWidth="642" frameHeight="667"/>
+	<SubTexture name="CatnapIdle0008" x="642" y="667" width="642" height="652" frameX="0" frameY="-15" frameWidth="642" frameHeight="667"/>
+	<SubTexture name="CatnapIdle0009" x="642" y="667" width="642" height="652" frameX="0" frameY="-15" frameWidth="642" frameHeight="667"/>
+	<SubTexture name="CatnapIdle0010" x="1284" y="667" width="642" height="657" frameX="0" frameY="-10" frameWidth="642" frameHeight="667"/>
+	<SubTexture name="CatnapIdle0011" x="1284" y="667" width="642" height="657" frameX="0" frameY="-10" frameWidth="642" frameHeight="667"/>
+	<SubTexture name="CatnapLeft0000" x="1926" y="667" width="656" height="697" frameX="0" frameY="0" frameWidth="658" frameHeight="697"/>
+	<SubTexture name="CatnapLeft0001" x="1926" y="667" width="656" height="697" frameX="0" frameY="0" frameWidth="658" frameHeight="697"/>
+	<SubTexture name="CatnapLeft0002" x="2582" y="667" width="656" height="687" frameX="-1" frameY="-10" frameWidth="658" frameHeight="697"/>
+	<SubTexture name="CatnapLeft0003" x="2582" y="667" width="656" height="687" frameX="-1" frameY="-10" frameWidth="658" frameHeight="697"/>
+	<SubTexture name="CatnapLeft0004" x="3238" y="667" width="657" height="689" frameX="-1" frameY="-8" frameWidth="658" frameHeight="697"/>
+	<SubTexture name="CatnapLeft0005" x="3238" y="667" width="657" height="689" frameX="-1" frameY="-8" frameWidth="658" frameHeight="697"/>
+	<SubTexture name="CatnapLeft0006" x="3238" y="667" width="657" height="689" frameX="-1" frameY="-8" frameWidth="658" frameHeight="697"/>
+	<SubTexture name="CatnapLeft0007" x="3238" y="667" width="657" height="689" frameX="-1" frameY="-8" frameWidth="658" frameHeight="697"/>
+	<SubTexture name="CatnapLeft0008" x="3238" y="667" width="657" height="689" frameX="-1" frameY="-8" frameWidth="658" frameHeight="697"/>
+	<SubTexture name="CatnapLeft0009" x="3238" y="667" width="657" height="689" frameX="-1" frameY="-8" frameWidth="658" frameHeight="697"/>
+	<SubTexture name="CatnapLeft0010" x="3238" y="667" width="657" height="689" frameX="-1" frameY="-8" frameWidth="658" frameHeight="697"/>
+	<SubTexture name="CatnapLeft0011" x="3238" y="667" width="657" height="689" frameX="-1" frameY="-8" frameWidth="658" frameHeight="697"/>
+	<SubTexture name="CatnapLeft0012" x="3238" y="667" width="657" height="689" frameX="-1" frameY="-8" frameWidth="658" frameHeight="697"/>
+	<SubTexture name="CatnapLeft0013" x="3238" y="667" width="657" height="689" frameX="-1" frameY="-8" frameWidth="658" frameHeight="697"/>
+	<SubTexture name="CatnapLeft0014" x="3238" y="667" width="657" height="689" frameX="-1" frameY="-8" frameWidth="658" frameHeight="697"/>
+	<SubTexture name="CatnapLeft0015" x="3238" y="667" width="657" height="689" frameX="-1" frameY="-8" frameWidth="658" frameHeight="697"/>
+	<SubTexture name="CatnapLeft0016" x="3238" y="667" width="657" height="689" frameX="-1" frameY="-8" frameWidth="658" frameHeight="697"/>
+	<SubTexture name="CatnapLeft0017" x="3238" y="667" width="657" height="689" frameX="-1" frameY="-8" frameWidth="658" frameHeight="697"/>
+	<SubTexture name="CatnapLeft0018" x="3238" y="667" width="657" height="689" frameX="-1" frameY="-8" frameWidth="658" frameHeight="697"/>
+	<SubTexture name="CatnapLeft0019" x="3238" y="667" width="657" height="689" frameX="-1" frameY="-8" frameWidth="658" frameHeight="697"/>
+	<SubTexture name="CatnapRight0000" x="0" y="1364" width="720" height="657" frameX="0" frameY="-9" frameWidth="720" frameHeight="666"/>
+	<SubTexture name="CatnapRight0001" x="0" y="1364" width="720" height="657" frameX="0" frameY="-9" frameWidth="720" frameHeight="666"/>
+	<SubTexture name="CatnapRight0002" x="720" y="1364" width="685" height="666" frameX="-4" frameY="0" frameWidth="720" frameHeight="666"/>
+	<SubTexture name="CatnapRight0003" x="720" y="1364" width="685" height="666" frameX="-4" frameY="0" frameWidth="720" frameHeight="666"/>
+	<SubTexture name="CatnapRight0004" x="1405" y="1364" width="672" height="665" frameX="-5" frameY="-1" frameWidth="720" frameHeight="666"/>
+	<SubTexture name="CatnapRight0005" x="1405" y="1364" width="672" height="665" frameX="-5" frameY="-1" frameWidth="720" frameHeight="666"/>
+	<SubTexture name="CatnapRight0006" x="1405" y="1364" width="672" height="665" frameX="-5" frameY="-1" frameWidth="720" frameHeight="666"/>
+	<SubTexture name="CatnapRight0007" x="1405" y="1364" width="672" height="665" frameX="-5" frameY="-1" frameWidth="720" frameHeight="666"/>
+	<SubTexture name="CatnapRight0008" x="1405" y="1364" width="672" height="665" frameX="-5" frameY="-1" frameWidth="720" frameHeight="666"/>
+	<SubTexture name="CatnapRight0009" x="1405" y="1364" width="672" height="665" frameX="-5" frameY="-1" frameWidth="720" frameHeight="666"/>
+	<SubTexture name="CatnapRight0010" x="1405" y="1364" width="672" height="665" frameX="-5" frameY="-1" frameWidth="720" frameHeight="666"/>
+	<SubTexture name="CatnapRight0011" x="1405" y="1364" width="672" height="665" frameX="-5" frameY="-1" frameWidth="720" frameHeight="666"/>
+	<SubTexture name="CatnapRight0012" x="1405" y="1364" width="672" height="665" frameX="-5" frameY="-1" frameWidth="720" frameHeight="666"/>
+	<SubTexture name="CatnapRight0013" x="1405" y="1364" width="672" height="665" frameX="-5" frameY="-1" frameWidth="720" frameHeight="666"/>
+	<SubTexture name="CatnapRight0014" x="1405" y="1364" width="672" height="665" frameX="-5" frameY="-1" frameWidth="720" frameHeight="666"/>
+	<SubTexture name="CatnapRight0015" x="1405" y="1364" width="672" height="665" frameX="-5" frameY="-1" frameWidth="720" frameHeight="666"/>
+	<SubTexture name="CatnapRight0016" x="1405" y="1364" width="672" height="665" frameX="-5" frameY="-1" frameWidth="720" frameHeight="666"/>
+	<SubTexture name="CatnapRight0017" x="1405" y="1364" width="672" height="665" frameX="-5" frameY="-1" frameWidth="720" frameHeight="666"/>
+	<SubTexture name="CatnapRight0018" x="1405" y="1364" width="672" height="665" frameX="-5" frameY="-1" frameWidth="720" frameHeight="666"/>
+	<SubTexture name="CatnapRight0019" x="1405" y="1364" width="672" height="665" frameX="-5" frameY="-1" frameWidth="720" frameHeight="666"/>
+	<SubTexture name="CatnapUp0000" x="2077" y="1364" width="562" height="735"/>
+	<SubTexture name="CatnapUp0001" x="2077" y="1364" width="562" height="735"/>
+	<SubTexture name="CatnapUp0002" x="2639" y="1364" width="555" height="722" frameX="-7" frameY="-13" frameWidth="562" frameHeight="735"/>
+	<SubTexture name="CatnapUp0003" x="2639" y="1364" width="555" height="722" frameX="-7" frameY="-13" frameWidth="562" frameHeight="735"/>
+	<SubTexture name="CatnapUp0004" x="3194" y="1364" width="556" height="699" frameX="-6" frameY="-36" frameWidth="562" frameHeight="735"/>
+	<SubTexture name="CatnapUp0005" x="3194" y="1364" width="556" height="699" frameX="-6" frameY="-36" frameWidth="562" frameHeight="735"/>
+	<SubTexture name="CatnapUp0006" x="3194" y="1364" width="556" height="699" frameX="-6" frameY="-36" frameWidth="562" frameHeight="735"/>
+	<SubTexture name="CatnapUp0007" x="3194" y="1364" width="556" height="699" frameX="-6" frameY="-36" frameWidth="562" frameHeight="735"/>
+	<SubTexture name="CatnapUp0008" x="3194" y="1364" width="556" height="699" frameX="-6" frameY="-36" frameWidth="562" frameHeight="735"/>
+	<SubTexture name="CatnapUp0009" x="3194" y="1364" width="556" height="699" frameX="-6" frameY="-36" frameWidth="562" frameHeight="735"/>
+	<SubTexture name="CatnapUp0010" x="3194" y="1364" width="556" height="699" frameX="-6" frameY="-36" frameWidth="562" frameHeight="735"/>
+	<SubTexture name="CatnapUp0011" x="3194" y="1364" width="556" height="699" frameX="-6" frameY="-36" frameWidth="562" frameHeight="735"/>
+	<SubTexture name="CatnapUp0012" x="3194" y="1364" width="556" height="699" frameX="-6" frameY="-36" frameWidth="562" frameHeight="735"/>
+	<SubTexture name="CatnapUp0013" x="3194" y="1364" width="556" height="699" frameX="-6" frameY="-36" frameWidth="562" frameHeight="735"/>
+	<SubTexture name="CatnapUp0014" x="3194" y="1364" width="556" height="699" frameX="-6" frameY="-36" frameWidth="562" frameHeight="735"/>
+	<SubTexture name="CatnapUp0015" x="3194" y="1364" width="556" height="699" frameX="-6" frameY="-36" frameWidth="562" frameHeight="735"/>
+	<SubTexture name="CatnapUp0016" x="3194" y="1364" width="556" height="699" frameX="-6" frameY="-36" frameWidth="562" frameHeight="735"/>
+	<SubTexture name="CatnapUp0017" x="3194" y="1364" width="556" height="699" frameX="-6" frameY="-36" frameWidth="562" frameHeight="735"/>
+	<SubTexture name="CatnapUp0018" x="3194" y="1364" width="556" height="699" frameX="-6" frameY="-36" frameWidth="562" frameHeight="735"/>
+	<SubTexture name="CatnapUp0019" x="3194" y="1364" width="556" height="699" frameX="-6" frameY="-36" frameWidth="562" frameHeight="735"/>
+</TextureAtlas>
